@@ -264,3 +264,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:38:37 | 25-02-2025] ✅ Node started for 0x18DD93600976c027DD17f2efd485799040537F1F
+[03:20:19 | 26-02-2025] Wallet Address: 0x18DD93600976c027DD17f2efd485799040537F1F
+[03:20:19 | 26-02-2025] Node Points: 182382
+[03:20:19 | 26-02-2025] Last Claim Point: 25/02/2025 12:44:31
